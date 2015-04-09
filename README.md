@@ -1,8 +1,8 @@
-# Blocss: atoms.reset – v0.0.1
+# Blocss: atoms.reset – v1.0.0
 
-The `reset` module is a considered approach to resetting elements. It
-selectively removes margins and paddings from certain elements, and provides
-some sensible defaults for some others.
+The `reset` module is a thin layer on top of normalize.css that provides a
+starting point more suitable for web applications. Removes the default spacing
+and border for appropriate elements.
 
 Read more about [Blocss](https://blocss.github.io/blocss).
 
