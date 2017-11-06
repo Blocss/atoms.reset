@@ -1,4 +1,6 @@
-# Blocss: atoms.reset – v1.0.0
+# Blocss: atoms.reset – v1.0.0 - Deprecated
+
+**This module has been moved to: ([https://github.com/Blocss/blocss](https://github.com/Blocss/blocss))**
 
 The `reset` module is a thin layer on top of normalize.css that provides a
 starting point more suitable for web applications. Removes the default spacing
